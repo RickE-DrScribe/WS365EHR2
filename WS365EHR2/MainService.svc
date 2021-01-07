@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS365EHR.MainService" CodeBehind="MainService.svc.cs" %>
